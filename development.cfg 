@@ -1,0 +1,2 @@
+DEBUG = True
+DATABASE = "mysql://user:password@localhost/development_database"
